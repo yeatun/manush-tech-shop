@@ -2,7 +2,7 @@ import React from 'react';
 import './Shop.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
-import { Link } from 'react-router-dom';
+
 
 
 const Shop = (props) => {
